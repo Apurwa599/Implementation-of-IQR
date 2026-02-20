@@ -12,3 +12,6 @@
 - After applying the IQR method, the dataset became more balanced.
 - Removing extreme values helped in reducing skewness and improving
 - the reliability of further analysis and machine learning models.
+
+### Conclusion
+The IQR technique proved to be an effective method for identifying and handling outliers. Proper outlier treatment improved data quality and created a strong foundation for accurate analysis and modeling.
